@@ -1,4 +1,6 @@
 #EFS
 efs_user: root
 efs_group: root
+efs_mount_id:
 efs_mount_point: /data
+

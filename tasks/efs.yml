@@ -1,10 +1,10 @@
 ---
 - name: create efs mount point
   file:
-    path: '{{ efs_mount_point }}'
+    path: "{{ efs_mount_point }}"
     state: directory
-    owner: '{{ efs_user }}'
-    group: '{{ efs_group }}'
+    owner: "{{ efs_user }}"
+    group: "{{ efs_group }}"
 
 
 - name: mount efs volume
