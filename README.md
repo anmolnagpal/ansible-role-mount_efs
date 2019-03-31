@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/kHLFFZR.png" /></p>
+<p align="center"><img src="https://i.imgur.com/mFCIQBj.png" /></p>
 
 > Ansible role to setup Amazon EFS 
 
