@@ -13,7 +13,3 @@
     name: rpcbind
     state: started
     enabled: yes
-
-
-
-
