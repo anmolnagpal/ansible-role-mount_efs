@@ -1,7 +1,7 @@
 ---
 - name: install nfs utils
   apt:
-    pkg: "{{item}}"
+    pkg: "{{ item }}"
     state: latest
   with_items:
     - nfs-common
